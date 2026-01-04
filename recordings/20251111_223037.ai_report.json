@@ -1,0 +1,15 @@
+{
+  "video": "recordings\\20251111_223037.mp4",
+  "analyzed_at": "2025-11-11T22:35:45.773893",
+  "bugs_found": 1,
+  "bugs": [
+    {
+      "type": "ui_anomaly",
+      "timestamp": 0.0,
+      "confidence": 192.0,
+      "severity": "CRITICAL"
+    }
+  ],
+  "builder": "@realdavejags",
+  "note": "Day 3 \u2014 AI brain live \u2014 UINT8 model fixed"
+}
